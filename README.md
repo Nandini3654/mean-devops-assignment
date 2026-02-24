@@ -1,6 +1,6 @@
 # DevOps MEAN Stack Deployment Assignment
 
-## 📌 Project Overview
+##  Project Overview
 This project demonstrates containerization and CI pipeline setup for a MEAN stack application.
 
 The repository includes:
@@ -11,14 +11,14 @@ The repository includes:
 
 ---
 
-## 1️⃣ Repository Setup
+## 1️ Repository Setup
 - Created a new GitHub repository.
 - Pushed complete frontend and backend code.
 - Structured project with separate directories.
 
 ---
 
-## 2️⃣ Containerization
+## 2️ Containerization
 - Created Dockerfile for backend.
 - Created Dockerfile for frontend.
 - Configured docker-compose.yml for multi-container setup.
